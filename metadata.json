@@ -1,0 +1,6 @@
+{
+  "name": "Aakushi Education Network",
+  "description": "Multi-site educational network with Aakushi Classes, Learning Store, Resource Library, and a Central Product Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
